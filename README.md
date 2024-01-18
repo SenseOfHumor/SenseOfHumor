@@ -21,11 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/swapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="swapnil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swapnil deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil deb" height="30" width="40" /></a>
-<a href="https://fb.com/swapnil deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swapnil deb" height="30" width="40" /></a>
 <a href="https://instagram.com/eh_swap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eh_swap" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/this is refire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="this is refire" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swa2314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swa2314" height="30" width="40" /></a>
 </p>
 
