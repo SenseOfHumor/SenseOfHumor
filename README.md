@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Visualization using Python**
 
-- 🌱 I’m currently learning **Pandas, Numpy, Plotly**
+- 🌱 I’m currently learning **LLMs, Langchain, Finetuning LLMs**
 
 - 👯 I’m looking to collaborate on **(tbh, anything.. i'm up for a challenge)**
 
