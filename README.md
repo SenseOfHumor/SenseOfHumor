@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
 <h3 align="center">A different kind of programmer</h3>
 
-- 🔭 I’m currently working on **Data Visualization using Python**
+- 🔭 I’m currently working on **Creating my own SAAS Startup**
 
 - 🌱 I’m currently learning **LLMs, Langchain, Finetuning LLMs**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **ideas, design and debugging**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SenseOfHumor](https://github.com/SenseOfHumor)
+- 👨‍💻 All of my projects are available at [SenseOfHumor - GitHub](https://github.com/SenseOfHumor) and [Swapnil Deb - DevPost]([https://github.com/SenseOfHumor](https://devpost.com/swa2314?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav))
 
 - 💬 Ask me about **python, photoshop, graphic designing**
 
