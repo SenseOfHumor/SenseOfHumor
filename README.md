@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **ideas, design and debugging**
 
-- 👨‍💻 All of my projects are available at [SenseOfHumor - GitHub](https://github.com/SenseOfHumor) and [Swapnil Deb - DevPost]([https://github.com/SenseOfHumor](https://devpost.com/swa2314?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav))
+- 👨‍💻 All of my projects are available at [SenseOfHumor - GitHub](https://github.com/SenseOfHumor) and [Swapnil Deb - DevPost]([https://github.com/SenseOfHumor](https://devpost.com/swa2314?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 - 💬 Ask me about **python, photoshop, graphic designing**
 
