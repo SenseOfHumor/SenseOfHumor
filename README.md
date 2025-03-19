@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
 <h3 align="center">A different kind of programmer</h3>
 
-[![Visits Badge](https://badges.pufler.dev/visits/SenseOfHumor/SenseOfHumor)](https://badges.pufler.dev)
-
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/SenseOfHumor/SenseOfHumor/CI?label=build)
 
 
 - 🔭 I’m currently working on **Creating my own SAAS Startup**
