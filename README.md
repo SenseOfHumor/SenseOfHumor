@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/SenseOfHumor/SenseOfHumor" alt="Visits Badge">
+    <img src="https://badges.pufler.dev/visits/SenseOfHumor" alt="Visits Badge">
   </a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/SenseOfHumor" alt="Years Badge">
