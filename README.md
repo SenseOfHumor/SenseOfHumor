@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
 <h3 align="center">A different kind of programmer</h3>
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/SenseOfHumor/SenseOfHumor/CI?label=build)
+<div align="center">[![Visits Badge](https://badges.pufler.dev/visits/SenseOfHumor/SenseOfHumor)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/SenseOfHumor)](https://badges.pufler.dev)  [![Repos Badge](https://badges.pufler.dev/repos/SenseOfHumor)](https://badges.pufler.dev)  [![Commits Badge](https://badges.pufler.dev/commits/yearly/SenseOfHumor)](https://badges.pufler.dev)</div>
+ <p align="center">
+   <a href="https://badges.pufler.dev">
+     <img src="https://badges.pufler.dev/visits/SenseOfHumor/SenseOfHumor" alt="Visits Badge">
+   </a>
+   <a href="https://badges.pufler.dev">
+     <img src="https://badges.pufler.dev/years/SenseOfHumor" alt="Years Badge">
+   </a>
+   <a href="https://badges.pufler.dev">
+     <img src="https://badges.pufler.dev/repos/SenseOfHumor" alt="Repos Badge">
+   </a>
+   <a href="https://badges.pufler.dev">
+     <img src="https://badges.pufler.dev/commits/yearly/SenseOfHumor" alt="Commits Badge">
+   </a>
+ </p>
 
 
 - 🔭 I’m currently working on **Creating my own SAAS Startup**
