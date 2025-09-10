@@ -39,12 +39,10 @@ A different kind of Software Developer and an Aspiring Entreprenuer
 </div> -->
 
 <div align="center">
-  <iframe
-    title="Apple Music playlist: Blume"
-    allow="autoplay *; encrypted-media *;"
-    height="375"
-    style="width:840px; max-width:100%; border:0; border-radius:12px; overflow:hidden;"
-    sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation"
-    src="https://embed.music.apple.com/in/playlist/blume/pl.u-e98lGdEuadG46JX">
-  </iframe>
+  <a href="https://music.apple.com/in/playlist/blume/pl.u-e98lGdEuadG46JX" target="_blank">
+    <img
+      alt="Listen on Apple Music: Blume"
+      src="https://img.shields.io/badge/Apple%20Music-Blume-FA243C?logo=applemusic&logoColor=white&style=for-the-badge"
+    />
+  </a>
 </div>
