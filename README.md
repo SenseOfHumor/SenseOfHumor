@@ -15,7 +15,6 @@
 <a href="https://instagram.com/eh_swap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eh_swap" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swa2314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swa2314" height="30" width="40" /></a>
 </p>
-##
 
 ## Hi 👋, I'm Swapnil
 
@@ -35,10 +34,6 @@ A different kind of Software Developer and an Aspiring Entreprenuer
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenseOfHumor&layout=compact&langs_count=8&theme=algolia"/> </a>
 </p>
 
-
-<!-- <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31x76ixjnp73ocuv2xneztyolk4a&count=1&width=840px" alt="Spotify">
-</div> -->
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31x76ixjnp73ocuv2xneztyolk4a&count=1&width=840px" alt="Spotify">
 </div>
