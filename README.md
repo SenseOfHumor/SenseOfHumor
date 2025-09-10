@@ -16,9 +16,10 @@
 <a href="https://www.leetcode.com/swa2314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swa2314" height="30" width="40" /></a>
 </p>
 
-## Hi 👋, I'm Swapnil
+## Hi 👋, I'm Swapnil 
+`I go to NJIT, majoring in Computer Science | New Jersey, USA`
 
-A different kind of Software Developer and an Aspiring Entreprenuer
+A weird Software Developer and an Aspiring Entrepreneur
 
 #### What I know:
 
@@ -26,6 +27,13 @@ A different kind of Software Developer and an Aspiring Entreprenuer
 - FastAPI, React, Tailwind, NumPy, Pandas, Pydantic, Functools, Hugging Face, Google AI SDK
 - GitHub, GitHub Actions, AWS Lambda, AWS Secrets Manager, BitBucket, Jira, Postman, Docker
 ##
+
+#### What are my experiences 💼
+- Incoming Software Developer @ Prudential Financial
+- 2025 Summer Intern @ Prudential Financial (DevOps)
+- 2024 Co-op associate @ Prudential Financial (Cyber Security)
+- 2023 Intern @ UPS (Supply chain)
+- 2022 Graphic Designer for I2K E-Sports (Yes, I wasn't always a computer science major)
 
 
 <p align="center">
