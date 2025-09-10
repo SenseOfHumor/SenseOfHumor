@@ -26,7 +26,6 @@ A weird Software Developer and an Aspiring Entrepreneur
 - Python, Javascript, C, Java, HTML, CSS, Bash, SQL
 - FastAPI, React, Tailwind, NumPy, Pandas, Pydantic, Functools, Hugging Face, Google AI SDK
 - GitHub, GitHub Actions, AWS Lambda, AWS Secrets Manager, BitBucket, Jira, Postman, Docker
-##
 
 #### What are my experiences 💼
 - Incoming Software Developer @ Prudential Financial
@@ -35,6 +34,7 @@ A weird Software Developer and an Aspiring Entrepreneur
 - 2023 Intern @ UPS (Supply chain)
 - 2022 Graphic Designer for I2K E-Sports (Yes, I wasn't always a computer science major)
 
+##
 
 <p align="center">
 <a href="https://github.com/SenseOfHumor">
