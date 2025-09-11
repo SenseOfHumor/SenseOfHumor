@@ -3,6 +3,7 @@
 </a>
 
 <a href="https://hits.sh/github.com/SenseOfHumor/"><img alt="Hits" src="https://hits.sh/github.com/SenseOfHumor.svg?style=for-the-badge&label=VISITORS&color=01aafc"/></a>
+<a href="https://www.njit.edu/" target="_blank"><img align="center" src="https://img.shields.io/badge/NJIT-red?style=flat-square" alt="NJIT" height="30"/></a>
 
 
 #### Connect with me: <a href="https://senseofhumor.github.io/PORTFOLIO/" target="_blank"><img align="center" src="https://img.shields.io/badge/PORTFOLIO-Visit-blue?style=flat-square&logo=github" alt="Portfolio" height="30"/></a>
@@ -13,7 +14,7 @@
 </p>
 
 ## Hi 👋, I'm Swapnil 
-`I go to NJIT, majoring in Computer Science | New Jersey, USA`
+`I go to` <a href="https://www.njit.edu/" target="_blank"><img align="center" src="https://img.shields.io/badge/NJIT-red?style=flat-square" alt="NJIT" height="30"/></a> `majoring in Computer Science | New Jersey, USA`
 
 A weird Software Developer and an Aspiring Entrepreneur
 
