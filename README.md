@@ -26,7 +26,7 @@ A weird Software Developer and an Aspiring Entrepreneur
 - `2026` **Incoming Software Developer** @ Prudential Financial 
 - `2025` Summer Intern @ Prudential Financial (DevOps)
 - `2024` Co-op associate @ Prudential Financial (Cyber Security)
-- `2023` Intern @ UPS (Supply chain)
+- `2023` Intern @ UPS (Supply chain, Sponspred by PCCC)
 - `2022` Graphic Designer for I2K E-Sports (Yes, I wasn't always a computer science major)
 
 ##
