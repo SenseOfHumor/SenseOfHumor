@@ -5,7 +5,7 @@
 <a href="https://hits.sh/github.com/SenseOfHumor/"><img alt="Hits" src="https://hits.sh/github.com/SenseOfHumor.svg?style=for-the-badge&label=VISITORS&color=01aafc"/></a>
 
 
-#### Connect with me:
+#### Connect with me: <a href="https://senseofhumor.github.io/PORTFOLIO/" target="_blank"><img align="center" src="https://img.shields.io/badge/PORTFOLIO-Visit-green?style=flat-square&logo=github" alt="Portfolio" height="30"/></a>
 <p align="left">
 <a href="https://linkedin.com/in/swapnil deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil deb" height="30" width="40" /></a>
 <a href="https://instagram.com/eh_swap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eh_swap" height="30" width="40" /></a>
