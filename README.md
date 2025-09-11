@@ -2,7 +2,7 @@
   <img src="./Swap_banner.png" alt="Swap banner">
 </a>
 
-[![Views](https://hits.sh/github.com/SenseOfHumor.svg)](https://hits.sh/github.com/SenseOfHumor/)
+<a href="https://hits.sh/github.com/SenseOfHumor/"><img alt="Hits" src="https://hits.sh/github.com/SenseOfHumor.svg?style=for-the-badge&label=VISITORS&extraCount=826&color=01aafc"/></a>
 
 
 #### Connect with me:
