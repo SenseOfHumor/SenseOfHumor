@@ -4,10 +4,6 @@
 
 [![Views](https://hits.sh/github.com/SenseOfHumor.svg)](https://hits.sh/github.com/SenseOfHumor/)
 
-<div align="center">
-    <img alt="Visitor Stats" 
-        src="https://widgetbite.com/stats/SenseOfHumor"/>  
-</div>
 
 #### Connect with me:
 <p align="left">
@@ -21,7 +17,7 @@
 
 A weird Software Developer and an Aspiring Entrepreneur
 
-#### What I know:
+#### What I know 🧐:
 
 - Python, Javascript, C, Java, HTML, CSS, Bash, SQL
 - FastAPI, React, Tailwind, NumPy, Pandas, Pydantic, Functools, Hugging Face, Google AI SDK
