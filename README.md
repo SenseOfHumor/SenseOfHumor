@@ -20,7 +20,7 @@ A weird Software Developer and an Aspiring Entrepreneur
 
 - Python, Javascript, C, Java, HTML, CSS, Bash, SQL
 - FastAPI, React, Tailwind, NumPy, Pandas, Pydantic, Functools, Hugging Face, Google AI SDK
-- GitHub, GitHub Actions, AWS Lambda, AWS Secrets Manager, BitBucket, Jira, Postman, Docker
+- GitHub, GitHub Actions, AWS Lambda, AWS Secrets Manager, BitBucket, Jira, Postman, Docker, Supabase
 
 #### What are my experiences 💼
 - `2026` **Incoming Software Developer** @ Prudential Financial 
